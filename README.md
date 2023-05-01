@@ -137,7 +137,7 @@ If the container appears with the name that was assigned to it when it was creat
 
 ### 3 Web Server access
 
-Once the container has been created, the application can be accessed from the web browser by simply executing the following path: **http://localhost:port**, where **puerto** is the port number given to access the container in the [**step 1**](#1-creating-the-container).
+Once the container has been created, the application can be accessed from the web browser by simply executing the following path: **http://localhost:port**, where **port** is the port number given to access the container in the [**step 1**](#1-creating-the-container).
 
 ## Contributors
 
